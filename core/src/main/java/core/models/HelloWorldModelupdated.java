@@ -13,11 +13,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-<<<<<<< HEAD
- 
  // adding the line to check the conflicts
-=======
->>>>>>> devsprint1
 package ${package}.core.models;
 
 import javax.annotation.PostConstruct;
