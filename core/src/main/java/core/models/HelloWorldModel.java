@@ -13,6 +13,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
+ // If you have questions ask your question in IRC
 package ${package}.core.models;
 
 import javax.annotation.PostConstruct;
