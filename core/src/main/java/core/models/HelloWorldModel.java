@@ -31,7 +31,7 @@ import org.apache.sling.settings.SlingSettingsService;
 
 @Model(adaptables=Resource.class)
 public class HelloWorldModel {
-
+	//added one line
     @Inject
     private SlingSettingsService settings;
 
