@@ -37,7 +37,7 @@ import org.slf4j.LoggerFactory;
 @Service(value = EventHandler.class)
 @Property(name = EventConstants.EVENT_TOPIC, value = "org/apache/sling/api/resource/Resource/*")
 public class SimpleResourceListener implements EventHandler {
-
+	//updateline
     private final Logger logger = LoggerFactory.getLogger(getClass());
 
     public void  handleEvent(final Event event) {
