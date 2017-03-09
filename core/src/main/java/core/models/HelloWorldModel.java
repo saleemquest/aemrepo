@@ -15,8 +15,8 @@
  */
  // If you have questions ask your question in IRC
  //If you have questions, please open an issue
-
  //addding the third line
+ // Hi Saleem
 
 package ${package}.core.models;
 
