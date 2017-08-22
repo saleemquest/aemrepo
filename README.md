@@ -11,7 +11,7 @@ The main parts of the template are:
 * ui.content: contains sample content using the components from the ui.apps
 * ui.tests: Java bundle containing JUnit tests that are executed server-side. This bundle is not to be deployed onto production.
 * ui.launcher: contains glue code that deploys the ui.tests bundle (and dependent bundles) to the server and triggers the remote JUnit execution
-
+this is adding on the Stage enhancement
 ## How to build
 
 To build all the modules run in the project root directory the following command with Maven 3:
