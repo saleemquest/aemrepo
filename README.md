@@ -1,6 +1,6 @@
 this is 2nd enhancement on stage environment
 
-this is adding in IFTHEN branch 
+this is adding in IFTHEN branch 1.2
 
 # Sample AEM project template
 
