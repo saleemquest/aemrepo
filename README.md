@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 this is 2nd enhancement on stage environment
 
 this is adding in IFTHEN branch 1.2
+=======
+this is adding in IFTHEN branch 1.1
+>>>>>>> IFTHEN
 
 # Sample AEM project template
 
