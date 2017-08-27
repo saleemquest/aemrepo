@@ -1,6 +1,6 @@
 # Sample AEM project template
-resolving check from QA
-saleem saleemqa
+this is merge command
+saleem Tapal
 welcome
 mergetest
 
