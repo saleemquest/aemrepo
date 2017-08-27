@@ -1,6 +1,6 @@
 # Sample AEM project template
 this is merge command
-saleem
+saleem Tapal
 welcome
 mergetest
 
