@@ -1,4 +1,8 @@
 this is example file adding
 this new line
+<<<<<<< HEAD
+added in the new line
+=======
 this is saleem as arjun reddy
+>>>>>>> IFTHEN-QA
 
