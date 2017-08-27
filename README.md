@@ -1,6 +1,6 @@
 # Sample AEM project template
 resolving check from QA
-saleem
+saleem saleemqa
 welcome
 mergetest
 
