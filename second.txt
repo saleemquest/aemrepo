@@ -1,1 +1,2 @@
 adding new file
+adding next line to see how conflict in 2 files
